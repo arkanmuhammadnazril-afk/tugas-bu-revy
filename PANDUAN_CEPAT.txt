@@ -1,0 +1,111 @@
+╔══════════════════════════════════════════════════════════════╗
+║        🏥 APLIKASI LAYANAN KESEHATAN ONLINE - PETUNJUK CEPAT  ║
+╚══════════════════════════════════════════════════════════════╝
+
+📌 PANDUAN MEMULAI
+
+1️⃣ AKSES APLIKASI:
+   ➜ Buka browser (Chrome, Firefox, Edge, dll)
+   ➜ Ketik URL: http://localhost/tugas%20arkan/
+   ➜ Atau buka file: index.html
+
+2️⃣ AKUN DEMO YANG TERSEDIA:
+
+   👨‍⚕️ ADMIN:
+      Email: budi@healthcare.com
+      Password: admin123
+      Lisensi: ST-001-2024
+   
+   👤 USER (PASIEN):
+      Email: andi@gmail.com
+      Password: user123
+
+3️⃣ FITUR ADMIN:
+   ✓ Dashboard dengan statistik
+   ✓ Manajemen janji temu pasien
+   ✓ Lihat data pasien terdaftar
+   ✓ Berikan resep obat
+   ✓ Profil admin
+
+4️⃣ FITUR USER:
+   ✓ Daftar akun baru
+   ✓ Login ke dashboard
+   ✓ Pesan janji temu
+   ✓ Lihat riwayat medis
+   ✓ Lihat resep obat
+   ✓ Profil kesehatan
+
+📁 FILE PENTING:
+   • index.html           → Halaman beranda
+   • admin_login.html     → Login admin
+   • user_login.html      → Login user
+   • admin_dashboard.html → Dashboard admin
+   • user_dashboard.html  → Dashboard user
+   • css/style.css        → Styling
+   • js/auth.js           → Logika autentikasi
+   • js/admin-dashboard.js → Fungsi admin
+   • js/user-dashboard.js  → Fungsi user
+
+🔐 CATATAN KEAMANAN:
+   ⚠️ HANYA UNTUK PEMBELAJARAN/DEMO
+   ⚠️ JANGAN digunakan untuk produksi
+   ⚠️ Data disimpan di browser saja (localStorage)
+   ⚠️ Data akan hilang jika cache dihapus
+
+💡 TIPS MENGGUNAKAN:
+
+   SEBAGAI ADMIN:
+   1. Login dengan email: budi@healthcare.com
+   2. Klik "Janji Temu" untuk menambah janji temu
+   3. Masukkan email pasien (contoh: andi@gmail.com)
+   4. Isi tanggal, jam, dan diagnosis
+   5. Klik "Simpan Janji Temu"
+   6. Lihat di menu "Data Pasien" untuk melihat semua pasien
+   7. Di menu "Resep Obat" berikan resep kepada pasien
+
+   SEBAGAI USER:
+   1. Klik "Daftar di sini" untuk membuat akun baru
+   2. Isi semua data yang diminta
+   3. Setelah berhasil, login dengan email dan password
+   4. Di dashboard, klik "Janji Temu" untuk memesan
+   5. Isi tanggal, jam, dan alasan kunjungan
+   6. Klik "Pesan Janji Temu"
+   7. Lihat riwayat medis dan resep obat di menu masing-masing
+
+🎨 DESAIN:
+   • Responsive (mobile, tablet, desktop)
+   • Modern dan user-friendly
+   • Warna: Hijau, Biru, Merah (professional)
+   • Loading animasi smooth
+
+❓ PERTANYAAN UMUM:
+
+   Q: Bagaimana cara menghapus akun?
+   A: Logout dan login kembali dengan akun yang berbeda.
+
+   Q: Bisakah saya mengganti password?
+   A: Belum ada fitur ini di versi demo. Untuk mengubah,
+      gunakan tools developer dan edit localStorage.
+
+   Q: Data saya aman?
+   A: Data disimpan di browser saja. Backup atau export
+      data Anda secara berkala.
+
+   Q: Apakah bisa upload dokumen medis?
+   A: Belum ada fitur upload di versi ini.
+      Bisa ditambahkan di versi yang akan datang.
+
+   Q: Berapa pasien maksimal yang bisa terdaftar?
+   A: Unlimited! Tergantung kapasitas browser Anda.
+
+📧 HUBUNGI:
+   Email: info@healthcareonline.com
+   Telepon: 0800-1234-5678
+   Jam: 24/7
+
+═════════════════════════════════════════════════════════════
+
+Selamat menggunakan! 🎉
+Semoga aplikasi ini bermanfaat untuk pembelajaran Anda.
+
+═════════════════════════════════════════════════════════════
